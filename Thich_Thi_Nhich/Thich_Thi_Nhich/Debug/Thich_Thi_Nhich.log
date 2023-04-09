@@ -1,0 +1,5 @@
+﻿  Source6_On.cpp
+D:\Thich_Thi_Nhich\Thich_Thi_Nhich\Source6_On.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Thich_Thi_Nhich\Thich_Thi_Nhich\Source6_On.cpp(190,6): warning C4101: 'a': unreferenced local variable
+D:\Thich_Thi_Nhich\Thich_Thi_Nhich\Source6_On.cpp(191,7): warning C4101: 'b': unreferenced local variable
+  Thich_Thi_Nhich.vcxproj -> D:\Thich_Thi_Nhich\Debug\Thich_Thi_Nhich.exe
