@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\KY_THUAT_LAP_TRINH\</FILEPATH>
+      <FILENAME>LyThuyet.cpp</FILENAME>
+      <LINE>340</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sinhvien::diem' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sinhvien::{ctor}</FUNCTION>
+    <DECORATED>??0sinhvien@@QAE@XZ</DECORATED>
+    <FUNCLINE>340</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>sinhvien::diem</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

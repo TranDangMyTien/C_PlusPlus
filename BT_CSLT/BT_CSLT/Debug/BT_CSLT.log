@@ -1,0 +1,31 @@
+﻿  BTH8_BT06.cpp
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(30,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(31,2): error C2065: 'cin': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(33,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(35,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(35,10): error C2065: 'endl': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(36,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(37,2): error C2065: 'cin': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(39,13): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(40,3): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(40,26): error C2065: 'endl': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(41,7): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(41,36): error C2065: 'endl': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(42,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(44,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(47,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(47,10): error C2065: 'endl': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(48,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(49,2): error C2065: 'cin': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(50,24): error C2660: 'themphantuCuoi': function does not take 3 arguments
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(22,6): message : see declaration of 'themphantuCuoi'
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(52,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(52,10): error C2065: 'endl': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(62,2): error C3861: 'system': identifier not found
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(66,2): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(68,3): error C2065: 'cin': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(73,4): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(76,3): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(83,4): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(86,3): error C2065: 'cout': undeclared identifier
+D:\BT_CSLT\BT_CSLT\BTH8_BT06.cpp(123,3): error C2065: 'cout': undeclared identifier

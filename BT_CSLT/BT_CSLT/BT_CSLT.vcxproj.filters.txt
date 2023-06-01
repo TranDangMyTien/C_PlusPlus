@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\VD">
+      <UniqueIdentifier>{a2ce89eb-9b8c-437f-9d4d-0b7f86972f81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BTH2">
+      <UniqueIdentifier>{0f7e33f0-04a0-4b1f-b3bf-71cb0a7683f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BTH3">
+      <UniqueIdentifier>{f9ae2711-95a2-4879-b6be-59a473bf6e47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BTH4">
+      <UniqueIdentifier>{cce4a649-d447-4d0f-b68e-a28d0864b298}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BTH5">
+      <UniqueIdentifier>{54b7b732-882b-4155-bf67-a07bbfac9d4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BTH6">
+      <UniqueIdentifier>{4d13fb27-cc06-4902-85f7-4faf35adbd95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BTH7">
+      <UniqueIdentifier>{4c9922cd-b2a9-4424-8393-09edb998feb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BTH8">
+      <UniqueIdentifier>{b7d558d2-5a85-40e8-9147-d53c7da400ec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BTH2_BT01.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT02.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT03.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT04.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT05.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT06.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT07.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT08.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT09.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT10.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT11.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_BT12.cpp">
+      <Filter>Source Files\BTH2</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT01.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT02.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT03.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT04.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT05.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT08.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT07.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT09.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT06.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT10.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT11.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT12.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT13.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT01.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT02.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT03.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT04.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT06.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT05.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT15.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_BT14.cpp">
+      <Filter>Source Files\BTH3</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT07.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT08.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT09.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT10.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT11.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT12.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH4_BT13.cpp">
+      <Filter>Source Files\BTH4</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT01.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT02.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT03.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT04.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT10.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT05.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT06.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT09.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT07.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT08.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT11.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH5_BT12.cpp">
+      <Filter>Source Files\BTH5</Filter>
+    </ClCompile>
+    <ClCompile Include="CHU_Y.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD1A_TimSoLonNhatGiua_aVab.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD1B.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD1C.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD2A_TriTuyetDoi.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD2B.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD3.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD4.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD5A_XuatSoChanVaLe.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD5B.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD6.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD7_KtNguyenAmPhuAm.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD8_KiemtraKieuTamGiac.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD9_KtDiemCoThuocDuongTron.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD10_XepLoaiDiem.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD11_KtNgayTrongTuan.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD12_ThangCoBaoNhieuNgay.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD13_TongTu1Den_n.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD14a_TichChan.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD14b.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD15_TinhTong.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD16_TongCacChuSoTu_n.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD17_KiemTraSoNguyenTo.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD18_TongLe.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD19_TinhTong.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD20A.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD20B.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD20C.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD21.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD22A_Ham_TinhDtHCN.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD22B.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD23_Ham_TimSoLonNhat.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD24_Ham_TinhLuyThua.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD25A.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD25B.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD26_Ham_TinhTong.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD27_Ham_TinhDT_TamGiac.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD28_Ham_TichSoChan.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD29_Ham_SoLonNhatTuChinh_n.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD30_Ham_XepLoai.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD31.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD32_Ham_HoanDoi.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD33_Ham_TinhTongdt2HCN.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD34_Ham_TinhGiaiThua.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD35.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD36.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD37.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD38_BTH4_BT10.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD39_BTH4_BT10.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD40_BTH4_BT11.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD41_BTH4_BT11.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD42_BTH4_BT12.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD43_BTH4_BT13.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD44_BTH5_BT01.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD45_BTH4_BT12.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD45_BTH4_BT13.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD46_BTH5_BT02.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD47_BTH4_BT12.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD48_BTH4_BT12.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD49_Ham_TimSoDoiXung.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD50_Ham_InRa_n_SoNguyenToDauTien.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD51_Ham_GCD_UocChungLonNhat.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD52_Ham_UCLN_BCNN.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD53a_Mang_KhoiTao_In.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD53b_Mang.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD53c_Mang.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD54_Mang_TinhTong_TrungBinh.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD55_Mang_SoNgauNhien.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD56_Mang_Nhap_soChanLe_TrungBinh.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD57_Mang_TimViTri_While.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD58_Mang_TimViTri_For.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD59_Mang_TimSoLonNhat.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD60_Mang.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD61_Mang.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD62_Mang.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD63_BTH5_BT05.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD64_Mang_bt1.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD64_Mang_bt2.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD66_Mang_bt3.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD67_Mang_bt4.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VDB3_1A.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VDB3_1B.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="VD68_BTH5-BT12.cpp">
+      <Filter>Source Files\VD</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT01.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT02.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT03.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT04.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT05.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT06.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT07.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT08.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT09.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT10.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH6_BT11.cpp">
+      <Filter>Source Files\BTH6</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT01.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT02.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT03.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT04.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT05.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT06.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT07.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT08.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT09.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH7_BT10.cpp">
+      <Filter>Source Files\BTH7</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT01.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT02.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT03.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT04.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT05.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT06.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT07.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT08.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT09.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT10.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT11.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT12.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH8_BT13.cpp">
+      <Filter>Source Files\BTH8</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
